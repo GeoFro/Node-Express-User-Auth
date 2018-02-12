@@ -2,6 +2,7 @@
 Basic Node Express App with User Authentication
 
 ## Installation  
+$ npm install -g nodemon  
 $ npm install  
 $ npm update  
 
